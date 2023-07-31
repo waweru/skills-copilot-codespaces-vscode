@@ -1,7 +1,5 @@
-function CalculateNumbers(var1, var2) {
+function calculateNumbers(var1, var2) {
 
-    var result = var1 + var2;
-
-    console.log(result);
+    console.log(var1 + var2);
 
 }
